@@ -1,1 +1,0 @@
-/home/mazino/new_cpp/Opengl/3.Textures/build/a.out

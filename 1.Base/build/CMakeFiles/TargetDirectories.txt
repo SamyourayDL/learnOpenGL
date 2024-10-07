@@ -1,6 +1,0 @@
-/home/mazino/new_cpp/Opengl/build/CMakeFiles/a.out.dir
-/home/mazino/new_cpp/Opengl/build/CMakeFiles/edit_cache.dir
-/home/mazino/new_cpp/Opengl/build/CMakeFiles/rebuild_cache.dir
-/home/mazino/new_cpp/Opengl/build/glad/CMakeFiles/glad.dir
-/home/mazino/new_cpp/Opengl/build/glad/CMakeFiles/edit_cache.dir
-/home/mazino/new_cpp/Opengl/build/glad/CMakeFiles/rebuild_cache.dir

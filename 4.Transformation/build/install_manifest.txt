@@ -1,1 +1,0 @@
-/home/mazino/new_cpp/Opengl/4.Transformation/build/a.out
