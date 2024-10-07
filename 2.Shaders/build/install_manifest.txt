@@ -1,0 +1,1 @@
+/home/mazino/new_cpp/Opengl/2.Shaders/build/a.out
